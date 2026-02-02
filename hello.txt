@@ -1,2 +1,4 @@
 dog sound: woof
 cat sound: meow
+
+This is to test if new template is working correctly
